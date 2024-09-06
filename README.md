@@ -1,4 +1,8 @@
-## Hi there 👋
+## Intro
+Hi, I'm bladeacer. Nice to meet you.
+
+## Stats idk
+[![wakatime](https://wakatime.com/badge/user/909564de-48b8-416c-b570-9aa64e459313.svg)](https://wakatime.com/@909564de-48b8-416c-b570-9aa64e459313)
 
 [![bladeacer's GitHub stats](https://github-readme-stats.vercel.app/api?username=bladeacer&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bladeacer&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

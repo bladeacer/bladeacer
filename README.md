@@ -7,7 +7,6 @@ Hi, I'm bladeacer. Nice to meet you.
 <br>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=bladeacer&show_icons=true&theme=radical" width="60%" height="180px">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@bladeacer" width="60%" height="300px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bladeacer&theme=radical&layout=pie" style="left: 500px" width="30%">
 </div>
 <br>

@@ -1,27 +1,53 @@
+## About Me
 Hi, I'm bladeacer. Nice to meet you.
 
-## Stats
+## Statistics
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bladeacer&theme=tokyonight">
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=bladeacer&show_icons=true&theme=radical" width="60%" height="180px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bladeacer&theme=radical&layout=pie" style="left: 500px" width="30%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bladeacer&theme=tokyonight" width="47.5%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bladeacer&theme=tokyonight" width="47.5%" style="margin-left: 50%">
 </div>
-<br>
+<div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bladeacer&theme=tokyonight" width="47.5%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bladeacer&theme=tokyonight&utcOffset=+8" width="47.5%" style="margin-left: 50%">
+</div>
 
-Render stats like these: https://github.com/anuraghazra/github-readme-stats 
+> Render stats like these: https://github.com/vn7n24fzkq/github-profile-summary-cards
 
+## Projects
+  <a href="https://github.com/bladeacer/flexcyon"><img src="https://gh-card.dev/repos/bladeacer/flexcyon.svg"></a>
+  <a href="https://github.com/bladeacer/ACS"><img src="https://gh-card.dev/repos/bladeacer/ACS.svg"></a>
+  <a href="https://github.com/bladeacer/RecipeRight"><img src="https://gh-card.dev/repos/bladeacer/RecipeRight.svg"></a>
+  <a href="https://github.com/bladeacer/MovieApp"><img src="https://gh-card.dev/repos/bladeacer/MovieApp.svg"></a>
+</div>
 
-<!--
-**bladeacer/bladeacer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Render cards like these: https://gh-card.dev/
 
-Here are some ideas to get you started:
+## Skills
+### Web Development
+![HTML I guess](https://skillicons.dev/icons?i=html)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![CSS tools I use](https://skillicons.dev/icons?i=css,scss,tailwind,bootstrap)
 
--->
+![JS tools I use](https://skillicons.dev/icons?i=js,nodejs,express,react,vite,jquery)
+
+![Web Development using Python](https://skillicons.dev/icons?i=py,flask)
+
+![Web Development using C#](https://skillicons.dev/icons?i=cs,dotnet)
+
+### Scripting
+![Scripting](https://skillicons.dev/icons?i=py,bash,pwsh)
+
+### Mobile Development
+![Mobile Development](https://skillicons.dev/icons?i=gradle,kotlin)
+
+### Databases
+![Database tools](https://skillicons.dev/icons?i=mysql,sqlite,sequelize)
+
+### Operating Systems
+![Operating Systems](https://skillicons.dev/icons?i=windows,linux)
+
+### Tools I use
+![Tools I use](https://skillicons.dev/icons?i=vim,vscode,git,github,githubactions,obsidian)
+
+> Render icons like these: https://skillicons.dev

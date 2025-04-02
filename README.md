@@ -2,7 +2,7 @@
 Hi, I'm bladeacer. Nice to meet you.
 
 ## Statistics
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bladeacer&theme=tokyonight" width="97.5%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bladeacer&theme=tokyonight" width="95%">
 <div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bladeacer&theme=tokyonight" width="47.5%">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bladeacer&theme=tokyonight" width="47.5%" style="margin-left: 50%">

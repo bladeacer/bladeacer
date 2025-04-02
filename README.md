@@ -19,7 +19,6 @@ Hi, I'm bladeacer. Nice to meet you.
   <a href="https://github.com/bladeacer/ACS"><img src="https://gh-card.dev/repos/bladeacer/ACS.svg"></a>
   <a href="https://github.com/bladeacer/RecipeRight"><img src="https://gh-card.dev/repos/bladeacer/RecipeRight.svg"></a>
   <a href="https://github.com/bladeacer/MovieApp"><img src="https://gh-card.dev/repos/bladeacer/MovieApp.svg"></a>
-</div>
 
 > Render cards like these: https://gh-card.dev/
 

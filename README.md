@@ -15,10 +15,10 @@ Hi, I'm bladeacer. Nice to meet you.
 > Render stats like these: https://github.com/vn7n24fzkq/github-profile-summary-cards
 
 ## Projects
-  <a href="https://github.com/bladeacer/flexcyon"><img src="https://gh-card.dev/repos/bladeacer/flexcyon.svg"></a>
-  <a href="https://github.com/bladeacer/ACS"><img src="https://gh-card.dev/repos/bladeacer/ACS.svg"></a>
-  <a href="https://github.com/bladeacer/RecipeRight"><img src="https://gh-card.dev/repos/bladeacer/RecipeRight.svg"></a>
-  <a href="https://github.com/bladeacer/MovieApp"><img src="https://gh-card.dev/repos/bladeacer/MovieApp.svg"></a>
+  <a href="https://github.com/bladeacer/flexcyon"><img src="https://gh-card.dev/repos/bladeacer/flexcyon.svg" style="filter: invert(100%)"></a>
+  <a href="https://github.com/bladeacer/ACS"><img src="https://gh-card.dev/repos/bladeacer/ACS.svg" style="filter: invert(100%)"></a>
+  <a href="https://github.com/bladeacer/RecipeRight"><img src="https://gh-card.dev/repos/bladeacer/RecipeRight.svg" style="filter: invert(100%)"></a>
+  <a href="https://github.com/bladeacer/MovieApp"><img src="https://gh-card.dev/repos/bladeacer/MovieApp.svg" style="filter: invert(100%)"></a>
 </div>
 
 > Render cards like these: https://gh-card.dev/

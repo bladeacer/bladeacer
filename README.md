@@ -1,5 +1,6 @@
 ## About Me
 Hi, I'm bladeacer. Nice to meet you.
+> Avatar source: https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub
 
 ## Statistics
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bladeacer&theme=algolia" width="95%">

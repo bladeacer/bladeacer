@@ -6,7 +6,7 @@ Hi there, I write some code in my free time.
 
 ## Stats
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bladeacer&theme=nightowl" width="95%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bladeacer&theme=nightowl" width="95.5%">
 <div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bladeacer&theme=nightowl" width="47.5%">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bladeacer&theme=nightowl" width="47.5%" style="margin-left: 50%">

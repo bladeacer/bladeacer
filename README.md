@@ -5,14 +5,15 @@ Hi there, I write some code in my free time.
 - software developer in the making 💻
 
 ## Stats
-<div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bladeacer&theme=nightowl" width="67%" height="20%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bladeacer&theme=nightowl&utcOffset=+8" width="32%" height="20%" style="margin-left: 50%">
-</div>
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bladeacer&theme=nightowl" width="95%">
 <div>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bladeacer&theme=nightowl" width="49.5%" height="20%">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bladeacer&theme=nightowl" width="49.5%" height="20%" style="margin-left: 50%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bladeacer&theme=nightowl" width="47.5%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bladeacer&theme=nightowl" width="47.5%" style="margin-left: 50%">
+</div>
+<div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bladeacer&theme=nightowl" width="47.5%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bladeacer&theme=nightowl&utcOffset=+8" width="47.5%" style="margin-left: 50%">
 </div>
 
 Render stats like these: https://github.com/vn7n24fzkq/github-profile-summary-cards

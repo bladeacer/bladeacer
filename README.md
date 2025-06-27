@@ -81,7 +81,7 @@ Render stats like these: https://github.com/vn7n24fzkq/github-profile-summary-ca
     </td>
     <td><h3>Miscellenous</h3></td>
     <td>
-      <img alt="Misc" src="https://skillicons.dev/icons?i=md,obsidian,vscode,figma">
+      <img alt="Misc" src="https://skillicons.dev/icons?i=docker,figma,obsidian,vscode">
     </td>
   </tr>
 </table>

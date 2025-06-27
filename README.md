@@ -44,21 +44,21 @@ Render stats like these: https://github.com/vn7n24fzkq/github-profile-summary-ca
       <img alt="Python" src="https://skillicons.dev/icons?i=py,flask,pycharm">
     </td>
     <td>
-      <h3>Mobile Development</h3>
+      <h3>Android Development</h3>
     </td>
     <td>
-      <img alt"Mobile Development" src="https://skillicons.dev/icons?i=gradle,kotlin,materialui,androidstudio">
+      <img alt"Android Development" src="https://skillicons.dev/icons?i=gradle,kotlin,materialui,androidstudio">
     </td>
   </tr>
   
   <tr>
     <td><h3>C# Development</h3></td>
     <td>
-      <img alt="Web Development Using C#" src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio">
+      <img alt="C# Development" src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio">
     </td>
     <td><h3>Database</h3></td>
     <td>
-      <img alt="Database Tools" src="https://skillicons.dev/icons?i=mysql,sqlite,sequelize">
+      <img alt="Database" src="https://skillicons.dev/icons?i=mysql,sqlite,sequelize">
     </td>
   </tr>
   
@@ -81,7 +81,7 @@ Render stats like these: https://github.com/vn7n24fzkq/github-profile-summary-ca
     </td>
     <td><h3>Miscellenous</h3></td>
     <td>
-      <img alt="Misc" src="https://skillicons.dev/icons?i=docker,figma,obsidian,vscode">
+      <img alt="Misc" src="https://skillicons.dev/icons?i=docker,postman,figma">
     </td>
   </tr>
 </table>

@@ -6,84 +6,30 @@ Hi there, I write some code in my free time.
 
 ## Stats
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bladeacer&theme=nightowl" width="95.5%">
-<div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bladeacer&theme=nightowl" width="47.5%">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bladeacer&theme=nightowl" width="47.5%" style="margin-left: 50%">
-</div>
 <div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bladeacer&theme=nightowl" width="47.5%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bladeacer&theme=nightowl&utcOffset=+8" width="47.5%" style="margin-left: 50%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bladeacer&theme=nightowl" width="47.5%" style="margin-left: 50%">
 </div>
-
-Render stats like these: https://github.com/vn7n24fzkq/github-profile-summary-cards
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bladeacer&theme=nightowl" width="95.5%">
 
 ## Skillset
-<table>
-  <tr>
-    <td>
-      <h3>Web Development</h3>
-    </td>
-    <td>
-      <img alt="CSS tools I use" src="https://skillicons.dev/icons?i=html,css,scss,tailwind,bootstrap">
-    </td>
-    <td>
-      <img alt="JS tools I use 1" src="https://skillicons.dev/icons?i=js,nodejs,react,vite">
-    </td>
-    <td>
-      <img alt="JS tools I use 2" src="https://skillicons.dev/icons?i=jquery,express,nextjs,astro">
-    </td>
+### Frontend
+[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![SASS](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/) [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/) [![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/) 
 
-  </tr>
-  
-  <tr>
-    <td>
-      <h3>Python</h3>
-    </td>
-    <td>
-      <img alt="Python" src="https://skillicons.dev/icons?i=py,flask,pycharm">
-    </td>
-    <td>
-      <h3>Android Development</h3>
-    </td>
-    <td>
-      <img alt"Android Development" src="https://skillicons.dev/icons?i=gradle,kotlin,materialui,androidstudio">
-    </td>
-  </tr>
-  
-  <tr>
-    <td><h3>C# Development</h3></td>
-    <td>
-      <img alt="C# Development" src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio">
-    </td>
-    <td><h3>Database</h3></td>
-    <td>
-      <img alt="Database" src="https://skillicons.dev/icons?i=mysql,sqlite,sequelize">
-    </td>
-  </tr>
-  
-  <tr>
-    <td><h3>Version Control</h3></td>
-    <td>
-      <img alt="Version Control" src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab">
-    </td>
-    <td><h3>Scripting</h3></td>
-    <td>
-      <img alt="Scripting" src="https://skillicons.dev/icons?i=bash,pwsh,vim">
-    </td>
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  [![React](https://skillicons.dev/icons?i=react)](https://react.dev)  [![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en) [![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/) 
 
-  </tr>
+### Languages
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/) [![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://kotlinlang.org/) [![C#](https://skillicons.dev/icons?i=cs)](https://dotnet.microsoft.com/en-us/languages/csharp) [![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
 
-  <tr>
-    <td><h3>Operating Systems</h3></td>
-    <td>
-      <img alt="Operating Systems" src="https://skillicons.dev/icons?i=windows,linux">
-    </td>
-    <td><h3>Miscellenous</h3></td>
-    <td>
-      <img alt="Misc" src="https://skillicons.dev/icons?i=docker,postman,figma">
-    </td>
-  </tr>
-</table>
+### Databases
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/) [![SQLite](https://skillicons.dev/icons?i=sqlite)](https://sqlite.org/)
+[![Sequelize ORM](https://skillicons.dev/icons?i=sequelize)](https://sequelize.org/)
 
-Render icons like these: https://skillicons.dev
+### Containerisation
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+
+
+## Credits
+[Profile summary](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[Icons](https://skillicons.dev)

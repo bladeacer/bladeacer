@@ -4,7 +4,7 @@ Hi there, I write some code in my free time.
 - currently a student 📖
 - software developer in the making 💻
 
-[My Personal Site](https://bladeacer.gitlab.io/portfolio/)
+[Portfolio \/ Digital Garden Site](https://bladeacer.gitlab.io/portfolio/)
 
 ## Stats
 

@@ -1,8 +1,8 @@
 ## Intro
 Hi there, I write software I use.
-- css, vim, linux enjoyer 🔨
-- currently a student 📖
-- software developer in the making 💻
+- css, vim, linux enjoyer
+- currently a student
+- software developer in the making
 
 [Portfolio \/ Digital Garden Site](https://bladeacer.gitlab.io/portfolio/)
 

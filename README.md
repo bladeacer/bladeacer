@@ -1,5 +1,5 @@
 ## Intro
-Hi there, I write some code in my free time.
+Hi there, I write software I use.
 - css, vim, linux enjoyer 🔨
 - currently a student 📖
 - software developer in the making 💻

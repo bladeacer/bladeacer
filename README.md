@@ -16,20 +16,19 @@ Hi there, I write software I use.
 
 ## Skillset
 ### Frontend
-[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![SASS](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/) [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/) [![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/) 
+![HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) | ![CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) | ![SASS](https://sass-lang.com/) | ![Bootstrap](https://getbootstrap.com/) | ![Figma](https://www.figma.com/) 
 
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  [![React](https://skillicons.dev/icons?i=react)](https://react.dev)  [![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en) [![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/) 
+![JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | ![React](https://react.dev) | ![NodeJS](https://nodejs.org/en) | ![Postman](https://www.postman.com/) 
 
 ### Languages
-[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/) [![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://kotlinlang.org/) [![C#](https://skillicons.dev/icons?i=cs)](https://dotnet.microsoft.com/en-us/languages/csharp) [![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
+![Python](https://www.python.org/) | ![Kotlin](https://kotlinlang.org/) | ![C#](https://dotnet.microsoft.com/en-us/languages/csharp) | ![Bash](https://www.gnu.org/software/bash/)
 
 ### Databases
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/) [![SQLite](https://skillicons.dev/icons?i=sqlite)](https://sqlite.org/)
-[![Sequelize ORM](https://skillicons.dev/icons?i=sequelize)](https://sequelize.org/)
+![MySQL](https://www.mysql.com/) | ![SQLite](https://sqlite.org/) | 
+![Sequelize ORM](https://sequelize.org/)
 
 ### Containerisation
-[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
-
+![Docker](https://www.docker.com/) | ![Docker Compose](https://docs.docker.com/compose/)
 
 ## Credits
 [Profile summary](https://github.com/vn7n24fzkq/github-profile-summary-cards)

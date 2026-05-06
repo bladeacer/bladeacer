@@ -16,19 +16,19 @@ Hi there, I write software I use.
 
 ## Skillset
 ### Frontend
-![HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) | ![CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) | ![SASS](https://sass-lang.com/) | ![Bootstrap](https://getbootstrap.com/) | ![Figma](https://www.figma.com/) 
+[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) | [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) | [SASS](https://sass-lang.com/) | [Bootstrap](https://getbootstrap.com/) | [Figma](https://www.figma.com/) 
 
-![JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | ![React](https://react.dev) | ![NodeJS](https://nodejs.org/en) | ![Postman](https://www.postman.com/) 
+[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [React](https://react.dev) | [NodeJS](https://nodejs.org/en) | [Postman](https://www.postman.com/) 
 
 ### Languages
-![Python](https://www.python.org/) | ![Kotlin](https://kotlinlang.org/) | ![C#](https://dotnet.microsoft.com/en-us/languages/csharp) | ![Bash](https://www.gnu.org/software/bash/)
+[Python](https://www.python.org/) | [Kotlin](https://kotlinlang.org/) | [C#](https://dotnet.microsoft.com/en-us/languages/csharp) | [Bash](https://www.gnu.org/software/bash/)
 
 ### Databases
-![MySQL](https://www.mysql.com/) | ![SQLite](https://sqlite.org/) | 
-![Sequelize ORM](https://sequelize.org/)
+[MySQL](https://www.mysql.com/) | [SQLite](https://sqlite.org/) | 
+[Sequelize ORM](https://sequelize.org/)
 
 ### Containerisation
-![Docker](https://www.docker.com/) | ![Docker Compose](https://docs.docker.com/compose/)
+[Docker](https://www.docker.com/) | [Docker Compose](https://docs.docker.com/compose/)
 
 ## Credits
 [Profile summary](https://github.com/vn7n24fzkq/github-profile-summary-cards)

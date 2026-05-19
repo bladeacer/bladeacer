@@ -32,5 +32,3 @@ Hi there, I write software I use.
 
 ## Credits
 [Profile summary](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[Icons](https://skillicons.dev)
